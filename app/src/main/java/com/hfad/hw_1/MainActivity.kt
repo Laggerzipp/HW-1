@@ -11,5 +11,6 @@ class MainActivity : AppCompatActivity() {
 
         Log.i("info","Main branch")
         Log.i("info","First branch")
+        Log.i("info","Second branch")
     }
 }
